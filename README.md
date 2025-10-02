@@ -1,2 +1,7 @@
 # gherrera_225a
 
+Hello world!
+
+I hate almonds!
+
+My favorite animal is a penguin. Specifically, a blue penguin. Don't know the species name though.
